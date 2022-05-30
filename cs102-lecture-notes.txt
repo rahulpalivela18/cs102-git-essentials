@@ -1,0 +1,7 @@
+git add ==== to stage the files
+git log ==== to view history
+git clone ==== to clone a repository from a server to the local machine
+git push ==== to push the local commit changes to the rempote repository
+git pull ==== to pull changes from remote repository
+
+These lectures have taught me how to use a Github account and how to use it witha terminal as well. Github is very important. It taught what is a repository, how to create one. After creating what to do, i.e, the cloning and committing, etc. Next how to update the status in the server if one adds a file in a local machine's github using terminal. A lots of things about gitHub desktopwere discussed and implemented in class. Also introduced us to the VsCode text editor and gave an introduction to markdown language. And we will be taught HTML in future as well
