@@ -1,3 +1,4 @@
+Name: Rahul Palivela, Roll No: 2006329
 git add ==== to stage the files
 git log ==== to view history
 git clone ==== to clone a repository from a server to the local machine
